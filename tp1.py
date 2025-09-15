@@ -1,3 +1,3 @@
 import random
 
-print(random.randint(1,5))
+print("Ceci est un nombre aléatoire: ", random.randint(1,5))
